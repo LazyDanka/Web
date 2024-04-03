@@ -1,7 +1,7 @@
 body {
     font-family: Arial,  sans-serif; /* Семейство шрифтов */
-    font-size: 11px; /* Размер основного шрифта в <p></p>  */
-    background-color: #f0f0f0; /* Цвет фона веб-страницы */
+    font-size: 24px; /* Размер основного шрифта в <p></p>  */
+    background-color: #3801ff
     color: #333333; /* Цвет основного текста */
 }
 h1 {
