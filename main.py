@@ -1,4 +1,4 @@
-from flask import Flask
+"""from flask import Flask
 import random
 app = Flask(__name__)
 
@@ -34,4 +34,4 @@ def pass1():
         pas = random.randint(0, len(symb))
         cod += symb[pas]
     return cod
-app.run(debug=True)
+app.run(debug=True)"""
